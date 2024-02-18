@@ -1,4 +1,4 @@
-  body {
+body {
   background-image: url("../images/black.jpg");
 }
 
@@ -15,12 +15,6 @@
   border-radius: 12px 12px 0px 0px;
 }
 
-#header a#logo1 img {
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-bottom: 20px;
-}
-
 #header h1 {
   position: absolute;
   left: 420px;
@@ -28,6 +22,12 @@
   font-size: 3em;
   font-family: 'Devonshire', cursive;
   color: #E35335;
+}
+
+#header a#logo1 img {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 #header #toplink {
