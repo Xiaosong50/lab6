@@ -39,6 +39,12 @@ body {
   font-size: 1.8em;
 }
 
+#footer {
+  background-color: #777;
+	height: 80px;
+	clear: both;
+}
+
 #content-wrapper{
   background-image: url("../images/repeating.png");
   float: left;
@@ -70,12 +76,6 @@ h2 strong {
   min-height: 150px;
   width: 200px;
   float: left;
-}
-
-#footer {
-  background-color: #777;
-	height: 80px;
-	clear: both;
 }
 
 #main-nav {
